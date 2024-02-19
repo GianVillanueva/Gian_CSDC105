@@ -6,9 +6,20 @@ body {
 div {
   text-align: center;
 
+  margin-left: 200px;
+  
   form {
     background-color: #FEFEFE;
     text-align: left;
   }
-  
+}
+
+input [type="submit"] {
+  color: white;
+  background-color: green;
+}
+
+input [type="reset"] {
+  color: white;
+  background-color: red;
 }
