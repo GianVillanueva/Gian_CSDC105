@@ -1,9 +1,13 @@
 body {
   background-color: lightslategrey;
-  font-family: "Oswald";
+  font-family: Oswald;
 }
 
 form {
   background-color: FEFEFE;
   text-align: left;
+}
+
+div {
+  text-align: center;
 }
