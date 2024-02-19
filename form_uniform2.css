@@ -3,11 +3,12 @@ body {
   font-family: Oswald;
 }
 
-form {
-  background-color: FEFEFE;
-  text-align: left;
-}
-
 div {
   text-align: center;
+
+  form {
+    background-color: FEFEFE;
+    text-align: left;
+  }
+  
 }
