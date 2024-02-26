@@ -9,6 +9,7 @@ div {
   form {
     background-color: #FEFEFE;
     boarder: 1px solid white;
+    width: 200px;
   }
 }
 
