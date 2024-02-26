@@ -16,7 +16,6 @@ div {
     margin-bottom: 20px;
     text-align: left;
   }
-}
 
 input [type=submit] {
   color: white;
@@ -26,4 +25,5 @@ input [type=submit] {
 input [type=reset] {
   color: white;
   background-color: #FF0000;
+}
 }
