@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: lightslategrey;
   font-family: Oswald;
 }
 
@@ -12,6 +12,9 @@ div {
     width: 300px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
   }
 }
 
