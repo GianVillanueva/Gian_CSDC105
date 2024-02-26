@@ -15,12 +15,12 @@ div {
     text-align: left;
   }
 
-input [type=submit] {
+input[type=submit] {
   color: white;
   background-color: #00FF00;
 }
 
-input [type=reset] {
+input[type=reset] {
   color: white;
   background-color: #FF0000;
 }
